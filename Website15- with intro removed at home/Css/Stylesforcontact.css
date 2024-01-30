@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: o;
+    padding: 0;
+}
+.thing{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    width: 49.9%;
+    margin: 0.1%;
+   
+}
+#contactsss{
+    float: left;
+    width: 50%;
+    
+}
+#max{
+    float: left;
+    width: 30%;
+}
+.back{
+    max-width: 100%;
+    height: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#joinn{
+    background-repeat: no-repeat;
+    overflow-wrap: inherit;
+}
