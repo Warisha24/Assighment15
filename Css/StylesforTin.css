@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+    margin: o;
+    padding: 0;
+}
+.dev {
+    padding: 8% 19%;
+}
+#training{
+   padding: 4%;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   max-width: 100%;
+   width: 60%;
+   box-shadow:  rgb(112, 70, 14);
+}

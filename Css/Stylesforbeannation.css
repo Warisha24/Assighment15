@@ -1,0 +1,100 @@
+ul {
+    list-style-type: none;
+    margin: o;
+    padding: 0;
+}
+#vacancies{
+  max-width: 100%;
+  margin: 5%;
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+}
+.hoo{
+  font-size: 150%;
+  display: flex;
+}
+.job{
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 90%;
+border-radius: 30%;
+padding: 3%;
+flex-direction: column;
+}
+.job :hover {
+  transform: scale(1.03);
+}
+.opnpos{
+  background-color: rgb(112, 70, 14);
+  color: white;
+  position: absolute;
+  left: 60%;
+}
+
+
+.detbutton{
+  text-decoration: none;
+  padding: 3%;
+  width: 30%;
+  height: 20%;
+  text-align: center;
+  border-radius: 6% 4%;
+color: black;
+  border: 3px solid rgb(240, 199, 122);
+  transition: 0.5s;
+}
+.detbutton:hover{
+background-color: rgb(240, 199, 122);
+
+}
+
+.first{
+  box-shadow: 0px 4px 24px -8px rgb(112, 70, 14);
+  padding: 7% 9%;
+  transition: all 1s ease;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+}
+.first :hover{
+  transform: scale(1.03);
+
+}
+.second{
+  box-shadow: 0px 4px 24px -8px rgb(112, 70, 14);
+  padding: 7% 9%;
+  transition: all 1s ease;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.third {
+  box-shadow: 0px 4px 24px -8px rgb(112, 70, 14);
+  padding: 7% 9%;
+  transition: all 1s ease;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.jobtitle{
+  width: 100%;
+}
+.cog{
+  border-radius: 30%;
+  height: 20%;
+  width: 35%;
+}
+.maps{
+  border-radius: 30%;
+  height: 20%;
+  width: 35%;
+}
+.book{
+  border-radius: 30%;
+  height: 20%;
+  width: 35%;
+}
+.details{
+  flex: 1;
+}
