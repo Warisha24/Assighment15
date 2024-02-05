@@ -13,3 +13,53 @@ ul {
    width: 60%;
    box-shadow:  rgb(112, 70, 14);
 }
+.links{
+    background-color: rgb(112, 70, 14);
+    color: white;
+    padding: 2% 3%;
+    border: 1px;
+    border-color: brown;
+    text-decoration: none;
+    display: flex;
+}
+.linkss{
+    background-color: rgb(112, 70, 14);
+    color: white;
+    padding: 2% 3%;
+    border: 1px;
+    border-color: brown;
+    text-decoration: none;
+    display: flex;
+}
+.linksss{
+    background-color: rgb(112, 70, 14);
+    color: white;
+    padding: 2% 3%;
+    border: 1px;
+    border-color: brown;
+    text-decoration: none;
+    display: flex;
+}
+.links:hover{
+    background-color: black;
+    transition: 1s;
+    color: white;
+}
+.linkss:hover{
+    background-color: black;
+    transition: 1s;
+    color: white;
+}
+.linksss:hover{
+    background-color: black;
+    transition: 1s;
+    color: white;
+}
+.li{
+    align-items: right;
+    width: 3%;
+    height: 5%;
+    float: right;
+    margin-left: 70%;
+
+}
